@@ -41,5 +41,3 @@ btns[2].addEventListener("click",function(){
     btns[2].classList.add("activeBtn");
     content[2].classList.add("active");
 })
-console.log(btns[0]);
-console.log(content);
